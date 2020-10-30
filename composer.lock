@@ -4,23 +4,24 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "888d669e5610dbbed0d0264f6a6e43b8",
+    "content-hash": "2e1e14a8695541a4a45b9ef5b07bfca1",
     "packages": [
         {
             "name": "codeitnowin/barcode",
-            "version": "3.0.2",
+            "version": "3.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/codeitnowin/barcode-generator.git",
-                "reference": "a84e923469a631e48723cd1cca21858605966904"
+                "reference": "6325a15ae904ec401b947e1a3e868de1c2cc80b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/codeitnowin/barcode-generator/zipball/a84e923469a631e48723cd1cca21858605966904",
-                "reference": "a84e923469a631e48723cd1cca21858605966904",
+                "url": "https://api.github.com/repos/codeitnowin/barcode-generator/zipball/6325a15ae904ec401b947e1a3e868de1c2cc80b0",
+                "reference": "6325a15ae904ec401b947e1a3e868de1c2cc80b0",
                 "shasum": ""
             },
             "require": {
+                "ext-gd": "*",
                 "php": ">=5.3.2"
             },
             "type": "library",
@@ -56,7 +57,7 @@
                 "issues": "https://github.com/codeitnowin/barcode-generator/issues",
                 "source": "https://github.com/codeitnowin/barcode-generator/tree/master"
             },
-            "time": "2018-06-01T13:33:52+00:00"
+            "time": "2018-10-25T18:32:10+00:00"
         },
         {
             "name": "khanamiryan/qrcode-detector-decoder",
